@@ -1,4 +1,8 @@
 # QPSK Modulator
+[![image](https://img.shields.io/badge/python-v.3-blue)](https://python.org)
+[![image](https://img.shields.io/badge/matplotlib-3.5.1-brightgreen)](https://matplotlib.org/)
+
+
 This python script allows you to visualize QPSK modulation on a binary trame. Differents graphs are displayed to understand the process and how it works. 
 
 You can type a custom binary trame or choose to generate a random binary trame with a custom bit lenght *(line 77 to line 79)*
